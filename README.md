@@ -5,6 +5,10 @@
 # 💫 About Me:
 <br>👋 Hello there! I'm Usman Nawaz, a passionate computer science student with a strong interest in mobile app development. Currently, I'm diving deep into the world of Flutter, exploring its endless possibilities for creating beautiful and efficient cross-platform applications.<br><br>🚀 I'm on a journey to become a skilled developer, and GitHub is where I showcase my coding adventures. You'll find repositories ranging from Flutter projects to code snippets that reflect my exploration and growth in the field of programming.<br><br>🌐 Connect with me to collaborate on exciting projects, discuss programming challenges, or simply geek out over the latest tech trends. Let's learn and grow together in this ever-evolving world of software development!<br><br>📚 In addition to coding, I'm also enthusiastic about expanding my knowledge in computer science, and I'm always eager to explore new technologies and tools that can enhance my skills.<br><br>Happy coding! 🚀✨
 
+# 📝 Education:
+<br> Stying in University of Lahore ,
+Doing BSCS,
+5th Semester with CGPA : 3.92  
 
 # 💻 Tech Stack:
 
