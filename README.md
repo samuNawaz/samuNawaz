@@ -22,7 +22,7 @@ Doing BSCS,
 
 
 # 📊 GitHub Stats:
-<p align="left"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samunawaz&theme=dark&hide_border=false&" alt="samunawaz" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samunawaz&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact" alt="samunawaz" /></p>
+<p align="left">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samunawaz&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact" alt="samunawaz" /></p>
 
 
 ---
